@@ -15,7 +15,7 @@ int factor(int l)
 void main()
 {
 	int a;
-		float s;
+		double s;
 	while (true)
 	{
 		cin >> a;
